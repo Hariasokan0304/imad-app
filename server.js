@@ -7,10 +7,10 @@ app.use(morgan('combined'));
 
 var articles = {
  'article-one': {
-    title:'Artile one | Hari Asokan',
-    heading:'Article one',
-    date:'Aug 15, 2017',
-    content:`<p>
+    title: 'Artile one | Hari Asokan',
+    heading: 'Article one',
+    date: 'Aug 15, 2017',
+    content: `<p>
                 This is my first article. This is my frist article.
                 This is my frist article
                 This is my frist article
@@ -24,10 +24,10 @@ var articles = {
     
 },
  'article-two': {
-    title:'Artile two| Hari Asokan',
-    heading:'Article two',
-    date:'Aug 16, 2017',
-    content:`<p>
+    title: 'Artile two| Hari Asokan',
+    heading: 'Article two',
+    date: 'Aug 16, 2017',
+    content: `<p>
                 This is my second article. This is my frist article.
                 This is my frist article
                 This is my frist article
@@ -41,10 +41,10 @@ var articles = {
     
 },
  'article-three': {
-    title:'Artile three | Hari Asokan',
-    heading:'Article three',
-    date:'Aug 17, 2017',
-    content:`<p>
+    title: 'Artile three | Hari Asokan',
+    heading: 'Article three',
+    date: 'Aug 17, 2017',
+    content: `<p>
                 This is my third article. This is my frist article.
                 This is my frist article
                 This is my frist article
